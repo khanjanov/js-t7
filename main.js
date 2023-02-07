@@ -51,14 +51,14 @@
 
 //! Qarışıq array verilib, yalnızca stringləri çap etdirin.
 // let a = [1, "fghj", 56, "ytgu5"];
-// function onlyNums() {
+// function onlyStrings() {
 //   for (let i = 0; i < a.length; i++) {
 //     if (typeof a[i] === "string") {
 //       console.log(a[i]);
 //     }
 //   }
 // }
-// onlyNums();
+// onlyStrings();
 
 //! Arrayda metodlar (en azi 3 method ile edilsin) ile ededleri 5 vahid artirmaq
 //* method 1
